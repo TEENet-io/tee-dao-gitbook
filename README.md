@@ -1,5 +1,11 @@
 # TEE DAO System Documentation
 
+<div align="right">
+  <a href="README-zh.md" style="display: inline-block; padding: 8px 16px; background-color: #007bff; color: white; text-decoration: none; border-radius: 4px; font-weight: bold;">
+    🇨🇳 中文版
+  </a>
+</div>
+
 Welcome to the documentation for the TEE DAO distributed key management and application deployment platform.
 
 ## Documentation Structure

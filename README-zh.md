@@ -1,5 +1,11 @@
 # TEE DAO 系统文档
 
+<div align="right">
+  <a href="README.md" style="display: inline-block; padding: 8px 16px; background-color: #007bff; color: white; text-decoration: none; border-radius: 4px; font-weight: bold;">
+    🇺🇸 English
+  </a>
+</div>
+
 欢迎使用 TEE DAO 分布式密钥管理和应用部署平台的文档。
 
 ## 文档结构
